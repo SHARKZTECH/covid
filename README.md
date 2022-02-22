@@ -1,3 +1,3 @@
 # covid
-Created with CodeSandbox
-https://github.com/disease-sh/api
+#Created with CodeSandbox
+#used api https://github.com/disease-sh/api
